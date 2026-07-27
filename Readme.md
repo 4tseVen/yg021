@@ -53,9 +53,8 @@ portfolio-project/
     └──profile.jpg
 
 ## Live Website
-
-https://shristikabaral.github.io/portfolio-project/
+https://yg021.vercel.app/
 
 ## GitHub Repository
 
-https://github.com/baralshristika0-debug/shristika/blob/main/script.js
+https://github.com/4tseVen/yg021
